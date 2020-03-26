@@ -14,7 +14,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://218.22.167.228:13285/apk/guqiao.ipa</string>
+                    <string>https://github.com/shzdong/guqiaoapp/edit/master/guqiao.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -22,7 +22,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>qqqqq</string>
+                    <string>https://github.com/shzdong/guqiaoapp/edit/master/icon-1024.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
