@@ -36,7 +36,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>第四处：/*bundleID*/</string>
+                <string>org.reactjs.native.hnmine.GuQiaoApp</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
