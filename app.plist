@@ -36,7 +36,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>org.reactjs.native.hnmine.GuQiaoApp</string>
+                <string>net.whir.emp.enduser</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
