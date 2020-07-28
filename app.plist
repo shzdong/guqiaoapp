@@ -14,7 +14,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://gh.hnmine.com/guqiaoapp/download/guqiao.ipa</string>
+                    <string>https://raw.githubusercontent.com/shzdong/guqiaoapp/master/zngqapp.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -36,7 +36,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>net.whir.emp.enduser</string>
+                <string>org.reactjs.native.hnmine.GuQiaoApp</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
